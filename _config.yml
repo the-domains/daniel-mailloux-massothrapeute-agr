@@ -17,3 +17,7 @@ navigation:
     url: 'https://thegrid.ai/barefoot-dax/'
     name: Barefoot Dax
     type: external
+  - id: 'https://thegrid.ai/dax-massage-therapist/'
+    url: 'https://thegrid.ai/dax-massage-therapist/'
+    name: Massothérapeute agréé
+    type: external
