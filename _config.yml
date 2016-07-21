@@ -11,9 +11,9 @@ color:
     - '#306E73'
     - '#3B424D'
     - '#1D181F'
-name: Daniel Mailloux massothérapeute agréé
+name: Daniel Mailloux
 navigation:
   - id: 'https://thegrid.ai/barefoot-dax/'
     url: 'https://thegrid.ai/barefoot-dax/'
-    name: Barefoot
+    name: Barefoot Dax
     type: external
